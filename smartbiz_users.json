@@ -1,0 +1,81 @@
+{
+  "salma": {
+    "pw": "bcb15f821479b4d5772bd0ca866c00ad5f926e3580720659cc80d39c9d09802a",
+    "paid": true
+  },
+  "alya": {
+    "pw": "bcb15f821479b4d5772bd0ca866c00ad5f926e3580720659cc80d39c9d09802a",
+    "paid": true
+  },
+  "anggi": {
+    "pw": "bcb15f821479b4d5772bd0ca866c00ad5f926e3580720659cc80d39c9d09802a",
+    "paid": true
+  },
+  "anggitacantik": {
+    "pw": "47a1a4d5599b4f15989fb45b6aaaaf232c599f4f3a685c37605e444c83972941",
+    "paid": true
+  },
+  "ss@gmail.com": {
+    "name": "ss",
+    "email": "ss@gmail.com",
+    "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+    "registered": "2026-06-10 11:30:09",
+    "tnc_agreed": true
+  },
+  "umm@gmail.com": {
+    "name": "ummm",
+    "email": "umm@gmail.com",
+    "password": "fe894aaae8a2f7e408251331cf1afcf6fea2c7e4a90af733dc2cfbfb67cb4497",
+    "registered": "2026-06-10 13:04:28",
+    "tnc_agreed": true
+  },
+  "teh@gmail.com": {
+    "name": "tongji",
+    "email": "teh@gmail.com",
+    "password": "a32369e058a494f7e46ac2ade09bf80d66917c6bc85b16849472f4e96afa5028",
+    "registered": "2026-06-10 13:36:30",
+    "tnc_agreed": true
+  },
+  "mbg@gmail.com": {
+    "name": "mbg",
+    "email": "mbg@gmail.com",
+    "password": "bc68c71addf6e28f228cab60828cb008ea85c3fe36acadc08b5b1dc2cd5e26d7",
+    "registered": "2026-06-10 13:43:22",
+    "tnc_agreed": true
+  },
+  "mbgg@gmail.com": {
+    "name": "mbg",
+    "email": "mbgg@gmail.com",
+    "password": "bc68c71addf6e28f228cab60828cb008ea85c3fe36acadc08b5b1dc2cd5e26d7",
+    "registered": "2026-06-10 13:44:24",
+    "tnc_agreed": true
+  },
+  "ultramilk@gmail.com": {
+    "name": "ultramilk",
+    "email": "ultramilk@gmail.com",
+    "password": "03c585c0225b6ef8a5a630b1b68d07b37e3f275566d3e447cb492a14e4ee6776",
+    "registered": "2026-06-10 13:48:54",
+    "tnc_agreed": true
+  },
+  "juni@gmail.com": {
+    "name": "juni",
+    "email": "juni@gmail.com",
+    "password": "152b6ffd8b95c19f7bdfbc1296588c98b603d6f92df95558ae588123e653198d",
+    "registered": "2026-06-10 14:01:58",
+    "tnc_agreed": true
+  },
+  "juli@gmail.com": {
+    "name": "juli",
+    "email": "juli@gmail.com",
+    "password": "0bc6993b09f1d69689595d948b0dce28be316e65cb57e446818e8654cb895f03",
+    "registered": "2026-06-10 14:03:56",
+    "tnc_agreed": true
+  },
+  "agustus@gmail.com": {
+    "name": "agustus",
+    "email": "agustus@gmail.com",
+    "password": "0c2db51a4849812412363ad0402f940abf4fcf27dbae297e80168c12310d1a26",
+    "registered": "2026-06-10 14:05:03",
+    "tnc_agreed": true
+  }
+}
